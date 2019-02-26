@@ -1,2 +1,2 @@
 # VueVGblog
-Repo for Vuepress blog
+Vue Vector Graphics
