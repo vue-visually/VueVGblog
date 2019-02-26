@@ -85,5 +85,5 @@ typings/
 .dynamodb/
 
 #vuepress
-.vuepress
+.vuepress/dist
 # End of https://www.gitignore.io/api/node

@@ -4,7 +4,8 @@
   "description": "Vue Vector Graphics",
   "main": "index.js",
   "dependencies": {
-    "vuepress": "^0.14.9"
+    "vuepress": "^0.14.9",
+    "vuepress-theme-ktquez": "^0.2.15"
   },
   "devDependencies": {},
   "scripts": {
