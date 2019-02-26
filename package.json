@@ -1,0 +1,30 @@
+{
+  "name": "vuevgblog",
+  "version": "1.0.0",
+  "description": "Vue Vector Graphics",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^0.14.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-visually/VueVGblog.git"
+  },
+  "keywords": [
+    "vue",
+    "svg",
+    "visual",
+    "vector",
+    "graphic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vue-visually/VueVGblog/issues"
+  },
+  "homepage": "https://github.com/vue-visually/VueVGblog#readme"
+}
