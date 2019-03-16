@@ -12,7 +12,7 @@ social:
   - name: twitter
     url: https://twitter.com/vuevg
   - name: github
-    url: https://github.com/vuevg
+    url: https://github.com/vue-visually
   - name: site
     url: https://blog.vue.vg
 meta:

@@ -20,5 +20,5 @@ Remembering, we are human beings and not machines.
 	Site:        https://blog.orca.fit/
 	Site:        https://fitquasar.azure-websites.net/
   Twitter:     https://twitter.com/vuevg/
-  Github:      https://github.com/vuevg/
+  Github:      https://github.com/vue-visually/
 	Donation:    https://www.patreon.com/vuevg

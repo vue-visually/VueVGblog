@@ -17,6 +17,6 @@ My contact form
   <lazy-load tag="iframe" :data="{ src: 'https://MY_TYPEFORM_URL', height: 1000 }" />
 </div> 
 
-See more in https://github.com/vuevg/vuepress-theme-ktquez#lazy-load
+See more in https://github.com/vue-visually/vuepress-theme-ktquez#lazy-load
 -->
 

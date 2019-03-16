@@ -1,4 +1,4 @@
-// See more in https://github.com/vuevg/vuepress-theme-ktquez#themeconfig
+// See more in https://github.com/vue-visually/vuepress-theme-ktquez#themeconfig
 const en = require('./locales/en/config')
 const pt = require('./locales/pt/config')
 const es = require('./locales/es/config')
