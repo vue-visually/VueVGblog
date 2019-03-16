@@ -44,7 +44,7 @@ module.exports = {
   text_404: 'Nos disculpamos por el inconveniente que si por casualidad el enlace que ha hecho clic se ha reducido, pero resolvemos esto fácil, simplemente haga clic en el botón de abajo para volver a la página principal <br> Nos vemos por ahí.',
   back_to_homepage: 'Volver a la página de inicio',
   // Traduzindo path das rotas
-  path_route_categories: 'categorias',
+  path_route_categories: 'categories',
   path_route_posts: 'posts',
   path_route_authors: 'autores',
   path_route_contact: 'contacto',

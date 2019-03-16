@@ -1,4 +1,4 @@
-// See more in https://github.com/ktquez/vuepress-theme-ktquez#configuration
+// See more in https://github.com/vuevg/vuepress-theme-ktquez#configuration
 const path = require('path')
 const head = require('./config/head')
 const themeConfig = require('./config/themeConfig')
@@ -9,7 +9,7 @@ module.exports = {
   head,
   themeConfig,
   base: '/',
-  title:r `Vue Visually`,  
+  title:  `Vue Visually`,  
   ga: `MY TRACKING CODE GOOGLE ANALYTICS`,
   evergreen: true,  // For modern browsers
   serviceWorker: true,

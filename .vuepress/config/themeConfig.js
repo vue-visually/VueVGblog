@@ -1,4 +1,4 @@
-// See more in https://github.com/ktquez/vuepress-theme-ktquez#themeconfig
+// See more in https://github.com/vuevg/vuepress-theme-ktquez#themeconfig
 const en = require('./locales/en/config')
 const pt = require('./locales/pt/config')
 const es = require('./locales/es/config')
@@ -15,8 +15,8 @@ module.exports = {
       buttonText: "Update" 
     }
   },
-  disqus: 'ktquez',
-  url: `https://MY_DOMAIN.COM`,
+  disqus: 'vuevg',
+  url: `https://blog.vue.vg`,
   cdn: '',
   blackWhite: true,
   topNavigation: false,
@@ -29,12 +29,12 @@ module.exports = {
   lazyLoad: {},
   share: {
     facebook: {
-      appId: `MY FACEBOOK APP ID`,
+      appId: `TBC`,
       version: 'v3.1'
     }
   },
   elevator: {
-    duration: 4000,
+    duration: 2000,
     mainAudio: '/music/elevator.mp3',
     endAudio: '/music/ding.mp3'
   }

@@ -10,25 +10,25 @@ module.exports = {
   translation,
   ads,
   logo: {
-    name: 'ktquez-play-logo',
+    name: 'visual-intelligence-logo',
     ext: 'png',
-    alt: 'Luego en 3 colores en el formato de reproducción'
+    alt: 'Visual Intelligence'
   },
   share: {
-    facebookCaption: 'Ktquez Play',
-    twitterVia: 'ktquez',
+    facebookCaption: 'Visual Intelligence',
+    twitterVia: 'vuevg',
   },
   newsletter: {
     provider: 'mailchimp',
     action: ''
   },
-  copy: `2018 © Ktquez play - 
+  copy: `2018 © Visual Intelligence - 
         <a href="https://vuepress.vuejs.org/" rel="noopener" target="_blank">
           HECHO CON VUEPRESS
         </a>`,
   footer: {
     nav1: {
-      title: 'Ktquez Play',
+      title: 'Visual Intelligence',
       items: [
         {
           label: 'ACERCA',
@@ -36,7 +36,7 @@ module.exports = {
         },
         {
           label: 'CATEGORÍAS',
-          path: '/es/categorias/'
+          path: '/es/categories/'
         },
         {
           label: 'CONTACTO',
@@ -52,15 +52,15 @@ module.exports = {
   social: [
     {
       name: 'twitter',
-      link: 'https://www.twitter.com/ktquez'
+      link: 'https://www.twitter.com/vuevg'
     },
     {
       name: 'youtube',
-      link: 'https://www.youtube.com/ktquez'
+      link: 'https://www.youtube.com/vuevg'
     },
     {
       name: 'github',
-      link: 'https://www.github.com/ktquez'
+      link: 'https://www.github.com/vuevg'
     }
   ]
 }

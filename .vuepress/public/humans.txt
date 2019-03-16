@@ -4,20 +4,21 @@ Remembering, we are human beings and not machines.
 /* PROJECT */
   Site name: 
   Site URL: 
-  Last update: 2018-08-22 00:00:00
-  Language: English/Portugues/Spanish
+  Last update: 2019-03-16 00:00:00
+  Language: English
   Twitter: 
   Contact: 
-  Built with: Vue.js (Vuepress), HTML5, CSS3, Accessibility techniques, PWA e SEO
+  Built with: Vue.js (Vuepress), HTML5, CSS3, Accessibility techniques, PWA & SEO
   Software: Visual Code Studio (VS Code)
 
 /* AUTHOR */
-	Name:        Alan Ktquez
-	Nickname:    ktquez
-	Title:       CEO & Founder HTML Moderno and Ktquez Play
-	Location:    Recife. Pernambuco, Brazil
-	Site:        https://ktquez.com/
-	Site:        https://htmlmoderno.com.br/
-  Twitter:     https://twitter.com/ktquez/
-  Github:      https://github.com/ktquez/
-	Donation:    https://www.patreon.com/ktquez
+	Name:        Visual Intelligence
+	Nickname:    VueVG
+	Title:       Visual Intelligence
+	Location:    London UK
+	Site:        https://blog.vue.vg/
+	Site:        https://blog.orca.fit/
+	Site:        https://fitquasar.azure-websites.net/
+  Twitter:     https://twitter.com/vuevg/
+  Github:      https://github.com/vuevg/
+	Donation:    https://www.patreon.com/vuevg

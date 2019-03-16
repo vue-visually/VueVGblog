@@ -5,7 +5,7 @@
  "theme_color": "#263647",
  "background_color": "#263647",
  "display": "standalone",
- "description": "DESCRIPTION OF YOUR APP",
+ "description": "Vue Visually blog",
  "start_url": "/?utm_source=pwahomescreen",
  "icons": [
   {

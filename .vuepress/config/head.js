@@ -22,12 +22,12 @@ module.exports = [
   
   // Twitter
   ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-  ['meta', { name: 'twitter:site', content: '@ktquez' }],
+  ['meta', { name: 'twitter:site', content: '@vuevg' }],
 
   // Facebook
-  ['meta', { property: 'fb:app_id', content: `MY FACEBOOK APP ID` }],
+  ['meta', { property: 'fb:app_id', content: `TBC` }],
   ['meta', { property: 'og:type', content: 'website' }],
-  ['meta', { property: 'og:site_name', content: `MY SITE NAME` }],
+  ['meta', { property: 'og:site_name', content: `Vue Visually` }],
   ['meta', { property: 'og:image:height', content: '1200' }],
   ['meta', { property: 'og:image:width', content: '360' }],
   ['meta', { property: 'og:image:type', content: 'image/png' }],
@@ -60,10 +60,10 @@ module.exports = [
   ['link', { rel: 'mask-icon', href: '/favicon/safari-pinned-tab.svg', color: '#ff5733' }],
   ['link', { rel: 'shortcut icon', href: '/favicon/favicon.ico' }],
 
-  ['link', { rel: 'alternate', href: `https://MY_DOMAIN.COM/`, hreflang: 'en' }],
-  ['link', { rel: 'alternate', href: `https://MY_DOMAIN.COM/pt/`, hreflang: 'pt' }],
-  ['link', { rel: 'alternate', href: `https://MY_DOMAIN.COM/pt/`, hreflang: 'pt-br' }],
-  ['link', { rel: 'alternate', href: `https://MY_DOMAIN.COM/es/`, hreflang: 'es' }],
+  ['link', { rel: 'alternate', href: `https://blog.vue.vg/`, hreflang: 'en' }],
+  ['link', { rel: 'alternate', href: `https://blog.vue.vg/pt/`, hreflang: 'pt' }],
+  ['link', { rel: 'alternate', href: `https://blog.vue.vg/pt/`, hreflang: 'pt-br' }],
+  ['link', { rel: 'alternate', href: `https://blog.vue.vg/es/`, hreflang: 'es' }],
 
   // Prebrowsing
   ['link', { rel: 'preconnect', href: 'https://connect.facebook.net/' }],

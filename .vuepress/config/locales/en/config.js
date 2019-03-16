@@ -10,7 +10,7 @@ module.exports = {
   },
   ads,
   logo: {
-    name: 'ktquez-play-logo',
+    name: 'visual-intelligence-logo',
     ext: 'png',
     alt: 'Logo in 3 colors in play format'
   },
@@ -22,13 +22,13 @@ module.exports = {
     provider: 'mailchimp',
     action: ''
   },
-  copy: `2018 © MY_BLOG_NAME - 
+  copy: `2018 © Vue Visually - 
         <a href="https://vuepress.vuejs.org/" rel="noopener" target="_blank">
           MADE WITH VUEPRESS
         </a>`,
   footer: {
     nav1: {
-      title: 'Ktquez Play',
+      title: 'Visual Intelligence',
       items: [
         {
           label: 'ABOUT',
@@ -49,7 +49,7 @@ module.exports = {
       items: [
         {
           label: 'FB GROUP',
-          link: 'https://www.facebook.com/groups/MY_GROUP'
+          link: 'https://www.facebook.com/groups/vuevg'
         }
       ]
     }
@@ -57,11 +57,11 @@ module.exports = {
   social: [
     {
       name: 'twitter',
-      link: `https://www.twitter.com/MY_TWITTER_NICKNAME`
+      link: `https://www.twitter.com/vue-visually`
     },
     {
       name: 'github',
-      link: `https://www.github.com/MY_TWITTER_NICKNAME`
+      link: `https://www.github.com/vue-visually`
     }
   ]
 }
