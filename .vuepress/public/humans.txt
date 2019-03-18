@@ -1,0 +1,24 @@
+Humans.txt is a legal initiative of (humanstxt.org), to talk a little about who is behind the web-based applications, the team involved and the stack used.
+Remembering, we are human beings and not machines.
+
+/* PROJECT */
+  Site name: 
+  Site URL: 
+  Last update: 2019-03-16 00:00:00
+  Language: English
+  Twitter: 
+  Contact: 
+  Built with: Vue.js (Vuepress), HTML5, CSS3, Accessibility techniques, PWA & SEO
+  Software: Visual Code Studio (VS Code)
+
+/* AUTHOR */
+	Name:        Visual Intelligence
+	Nickname:    VueVG
+	Title:       Visual Intelligence
+	Location:    London UK
+	Site:        https://blog.vue.vg/
+	Site:        https://blog.orca.fit/
+	Site:        https://fitquasar.azure-websites.net/
+  Twitter:     https://twitter.com/vuevg/
+  Github:      https://github.com/vue-visually/
+	Donation:    https://www.patreon.com/vuevg

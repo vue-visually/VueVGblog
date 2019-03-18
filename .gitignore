@@ -74,7 +74,6 @@ typings/
 
 # vuepress build output
 
-
 # Serverless directories
 .serverless/
 
@@ -85,5 +84,5 @@ typings/
 .dynamodb/
 
 #vuepress
-.vuepress
+.vuepress/dist
 # End of https://www.gitignore.io/api/node
