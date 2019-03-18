@@ -3,7 +3,7 @@ view: post
 layout: post                          # Only in unique we use the "layout: post"
 lang: en                              # Lang is required
 author: vuevg
-title: Vue VG: Vector graphics for Vue
+title: Vue VG Vector graphics for Vue
 description: 
 excerpt: 
 cover: false                          # Leave false if the post does not have cover image, if there is set to true
