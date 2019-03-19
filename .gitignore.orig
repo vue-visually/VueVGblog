@@ -73,6 +73,10 @@ typings/
 .nuxt
 
 # vuepress build output
+<<<<<<< HEAD
+
+=======
+>>>>>>> b3f34073f045793e544534b794818878f208c147
 
 # Serverless directories
 .serverless/
