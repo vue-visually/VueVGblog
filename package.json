@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "vuepress": "^0.14.9",
-    "vuepress-theme-vuevg": "git://git@github.com/vue-visually/vuepress-theme-vuevg.git"
+    "vuepress-theme-vuevg": "https://github.com/vue-visually/vuepress-theme-vuevg.git"
   },
   "devDependencies": {},
   "scripts": {
