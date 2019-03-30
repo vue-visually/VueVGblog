@@ -34,8 +34,8 @@ module.exports = {
     }
   },
   elevator: {
-    duration: 2000,
+    duration: 2000 /*,
     mainAudio: '/music/elevator.mp3',
-    endAudio: '/music/ding.mp3'
+    endAudio: '/music/ding.mp3'*/
   }
 }
